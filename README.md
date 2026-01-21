@@ -1,7 +1,5 @@
 <h1 align="center">✨ Video Calling Interview Platform ✨</h1>
 
-![Screenshot](./src/sss.png)
-
 Highlights:
 
 - 🚀 Tech stack: Next.js & TypeScript, Stream, Convex, Clerk
