@@ -1,6 +1,6 @@
 <h1 align="center">✨ Video Calling Interview Platform ✨</h1>
 
-![Portfolio Screenshot](./src/sss.png)
+![Screenshot](./src/sss.png)
 
 Highlights:
 
